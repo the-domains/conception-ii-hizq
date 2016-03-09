@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Ben The Illustrator
-    url: 'http://www.behance.net/bentheillustrator'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.behance.net'
-  name: Behance
-  favicon: 'https://a3.behance.net/img/site/favicon.ico?cb=680286668'
-  domain: bit.ly
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - pink
   - coloroftheyear
@@ -21,22 +16,29 @@ keywords:
   - nyc
   - colourful
 description: "Exciting art print featuring Molly Ringwald portraits from 3 classic 1980s John Hughes movies using Pantone's Color of the Year 2016."
-inLanguage: en
+datePublished: '2016-03-09T21:50:39.644Z'
+dateModified: '2016-03-09T21:43:40.949Z'
+author:
+  - name: Ben The Illustrator
+    url: 'http://www.behance.net/bentheillustrator'
+    avatar: {}
+related: []
 app_links:
   - url: 'behance://project/33406205'
     namespace: twitter
     type: iphone
     id: '489667151'
     name: Behance
-isBasedOnUrl: 'http://bit.ly/1Sj6eY9'
 title: "'The Molly Ringwald Trilogy' Art Print"
-datePublished: '2016-03-09T20:16:21.867Z'
-dateModified: '2016-03-09T20:13:26.270Z'
 sourcePath: _posts/2016-03-09-the-molly-ringwald-trilogy-art-print.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Behance
+  domain: bit.ly
+  url: 'http://www.behance.net'
+  favicon: 'https://a3.behance.net/img/site/favicon.ico?cb=680286668'
+url: the-molly-ringwald-trilogy-art-print/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
