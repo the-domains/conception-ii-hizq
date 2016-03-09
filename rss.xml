@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Conception II Hizq]]></title>
+        <description><![CDATA[Conception II Hizq]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 20:01:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trappist Monk Who Inspired Apple's Fonts Passes Away]]></title>
+            <description><![CDATA[<article><h1>Trappist Monk Who Inspired Apple's Fonts Passes Away</h1><p>The man who inspired Steve Jobs to bring multiple typographic styles to the Mac, the Trappist monk and calligrapher Rev. Robert Palladino, died late last month at the age of 83. Palladino taught calligraphy classes at Portland's Reed College, which Jobs attended during his dropout year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d56ac96fadc6358476e6ea0e049ba6e6/croprotate.jpeg?cropheight=1107&cropwidth=1600&degrees=0&input=http%3A%2F%2Fcdn.macrumors.com%2Farticle-new%2F2016%2F03%2Fimrs.php_-800x554.jpeg%3Fretina&x=0&y=0"></article>]]></description>
+            <link>http://www.macrumors.com/2016/03/09/trappist-monk-inspired-apple-fonts-dies/</link>
+            <guid isPermaLink="false">483ec50f-19cc-4810-8fce-814f45d7b7be</guid>
+            <pubDate>Wed, 09 Mar 2016 20:00:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
