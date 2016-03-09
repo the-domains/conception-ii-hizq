@@ -1,28 +1,40 @@
-name: Conception II Hizq
 favicon: null
-layout_spectrum: 0.00879690470173955
-typography_spectrum: 0.692586156539619
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Conception II Hizq
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3438771835062653
+  brandStrength: 0.5382889891043305
+  rhythmicContrast: 0.6474401322193444
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5382889891043305
   lightness: 0.2621565100271255
-  saturation: 0.3438771835062653
-  rhythmicContrast: 0.6474401322193444
-purpose: []
+typography_spectrum: 0.692586156539619
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3691756
+analytics:
+  twitter: null
+  google: null
+  facebook: null
