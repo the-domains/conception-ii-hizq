@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Conception II Hizq]]></title>
         <description><![CDATA[Conception II Hizq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/conception-ii-hizq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:01:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 20:16:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/conception-ii-hizq/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trappist Monk Who Inspired Apple's Fonts Passes Away]]></title>
             <description><![CDATA[<article><h1>Trappist Monk Who Inspired Apple's Fonts Passes Away</h1><p>The man who inspired Steve Jobs to bring multiple typographic styles to the Mac, the Trappist monk and calligrapher Rev. Robert Palladino, died late last month at the age of 83. Palladino taught calligraphy classes at Portland's Reed College, which Jobs attended during his dropout year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d56ac96fadc6358476e6ea0e049ba6e6/croprotate.jpeg?cropheight=1107&cropwidth=1600&degrees=0&input=http%3A%2F%2Fcdn.macrumors.com%2Farticle-new%2F2016%2F03%2Fimrs.php_-800x554.jpeg%3Fretina&x=0&y=0"></article>]]></description>
             <link>http://www.macrumors.com/2016/03/09/trappist-monk-inspired-apple-fonts-dies/</link>
             <guid isPermaLink="false">483ec50f-19cc-4810-8fce-814f45d7b7be</guid>
             <pubDate>Wed, 09 Mar 2016 20:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Y' fidelity: adapting design for agile workflows - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>'Y' fidelity: adapting design for agile workflows - InVision Blog</h1><p>Beautiful, pixel-perfect design comps invite people to get tapping and clicking. They solidify a vision in the minds of customers and stakeholders. For UI designers, it's tangible proof of hours of effort-another trophy for their Dribbble portfolio. But in agile workflows, monolithic, high-fidelity mockups can quickly get out of sync.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b14c5cd99928f4eb2e095ce35845ef375428d6a5.jpg"></article>]]></description>
+            <link>http://bit.ly/1RnMb8x</link>
+            <guid isPermaLink="false">fb285cd1-7d90-4f38-bd7f-f6563300dcb5</guid>
+            <pubDate>Wed, 09 Mar 2016 20:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
