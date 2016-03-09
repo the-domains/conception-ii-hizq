@@ -16,8 +16,8 @@ keywords:
   - animation
   - products
 description: 'What exactly does a user experience designer do? Even within industry circles, the definition of UX is often varied, vague, and simplified. " UX designers figure out how things are going to work. " " UX designers make things pretty.'
-datePublished: '2016-03-09T21:48:39.676Z'
-dateModified: '2016-03-09T21:47:58.545Z'
+datePublished: '2016-03-09T21:52:39.704Z'
+dateModified: '2016-03-09T21:52:38.148Z'
 author:
   - name: Jackie Fong
     url: 'http://blog.invisionapp.com/author/jackie-fong/'
