@@ -16,8 +16,8 @@ keywords:
   - patterns
   - tools
 description: "Beautiful, pixel-perfect design comps invite people to get tapping and clicking. They solidify a vision in the minds of customers and stakeholders. For UI designers, it's tangible proof of hours of effort-another trophy for their Dribbble portfolio. But in agile workflows, monolithic, high-fidelity mockups can quickly get out of sync."
-datePublished: '2016-03-09T21:52:06.587Z'
-dateModified: '2016-03-09T21:52:05.452Z'
+datePublished: '2016-03-09T21:53:43.037Z'
+dateModified: '2016-03-09T21:53:07.216Z'
 author:
   - name: A.J. Kandy
     url: 'http://blog.invisionapp.com/author/a-j-kandy/'
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>'Y' fidelity&amp;colon; adapting design for agile workflows - InVision Blog</h1><p>Beautiful&amp;comma; pixel-perfect design comps invite people to get tapping and clicking&amp;period; They solidify a vision in the minds of customers and stakeholders&amp;period; For UI designers&amp;comma; it's tangible proof of hours of effort-another trophy for their Dribbble portfolio&amp;period; But in agile workflows&amp;comma; monolithic&amp;comma; high-fidelity mockups can quickly get out of sync&amp;period;</p><img src="http://s3.amazonaws.com/blog.invisionapp.com/uploads/2016/02/monolith.jpg" /></article>
+<article style=""><h1>'Y' fidelity: adapting design for agile workflows - InVision Blog</h1><p>Beautiful, pixel-perfect design comps invite people to get tapping and clicking. They solidify a vision in the minds of customers and stakeholders. For UI designers, it's tangible proof of hours of effort-another trophy for their Dribbble portfolio. But in agile workflows, monolithic, high-fidelity mockups can quickly get out of sync.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b14c5cd99928f4eb2e095ce35845ef375428d6a5.jpg" /></article>
