@@ -16,8 +16,8 @@ keywords:
   - nyc
   - colourful
 description: "Exciting art print featuring Molly Ringwald portraits from 3 classic 1980s John Hughes movies using Pantone's Color of the Year 2016."
-datePublished: '2016-03-09T21:50:39.644Z'
-dateModified: '2016-03-09T21:43:40.949Z'
+datePublished: '2016-03-09T21:51:44.539Z'
+dateModified: '2016-03-09T21:51:20.602Z'
 author:
   - name: Ben The Illustrator
     url: 'http://www.behance.net/bentheillustrator'
