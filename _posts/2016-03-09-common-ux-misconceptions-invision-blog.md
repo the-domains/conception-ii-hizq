@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Jackie Fong
-    url: 'http://blog.invisionapp.com/author/jackie-fong/'
-    avatar: {}
-related: []
-publisher:
-  favicon: 'http://blog.invisionapp.com/wp-content/uploads/2014/03/favicon.png'
-  url: 'http://blog.invisionapp.com'
-  name: InVision Blog
-  domain: bit.ly
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - misconceptions
   - user
@@ -21,18 +16,24 @@ keywords:
   - animation
   - products
 description: 'What exactly does a user experience designer do? Even within industry circles, the definition of UX is often varied, vague, and simplified. " UX designers figure out how things are going to work. " " UX designers make things pretty.'
-inLanguage: en
+datePublished: '2016-03-09T21:48:39.676Z'
+dateModified: '2016-03-09T21:47:58.545Z'
+author:
+  - name: Jackie Fong
+    url: 'http://blog.invisionapp.com/author/jackie-fong/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://bit.ly/1QQm0up'
 title: Common UX misconceptions - InVision Blog
-datePublished: '2016-03-09T20:15:38.191Z'
-dateModified: '2016-03-09T20:15:11.356Z'
-starred: true
 sourcePath: _posts/2016-03-09-common-ux-misconceptions-invision-blog.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: InVision Blog
+  domain: bit.ly
+  url: 'http://blog.invisionapp.com'
+  favicon: 'http://blog.invisionapp.com/wp-content/uploads/2014/03/favicon.png'
+url: common-ux-misconceptions-invision-blog/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
